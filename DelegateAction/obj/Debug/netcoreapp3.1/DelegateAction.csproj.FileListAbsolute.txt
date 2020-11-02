@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.1\DelegateAction.exe
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.1\DelegateAction.deps.json
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.1\DelegateAction.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.1\DelegateAction.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.1\DelegateAction.dll
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegateAction\DelegateAction\bin\Debug\netcoreapp3.1\DelegateAction.pdb
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.1\DelegateAction.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.1\DelegateAction.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.1\DelegateAction.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.1\DelegateAction.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.1\DelegateAction.dll
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.1\DelegateAction.pdb
+C:\ProgramasCSharp\ConceitoDeDelegate\DelegateAction\DelegateAction\obj\Debug\netcoreapp3.1\DelegateAction.genruntimeconfig.cache
